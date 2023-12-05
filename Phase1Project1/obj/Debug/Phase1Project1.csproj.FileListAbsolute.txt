@@ -1,0 +1,7 @@
+C:\simplilearn\Phase1Project1\Phase1Project1\bin\Debug\Phase1Project1.exe.config
+C:\simplilearn\Phase1Project1\Phase1Project1\bin\Debug\Phase1Project1.exe
+C:\simplilearn\Phase1Project1\Phase1Project1\bin\Debug\Phase1Project1.pdb
+C:\simplilearn\Phase1Project1\Phase1Project1\obj\Debug\Phase1Project1.csproj.AssemblyReference.cache
+C:\simplilearn\Phase1Project1\Phase1Project1\obj\Debug\Phase1Project1.csproj.CoreCompileInputs.cache
+C:\simplilearn\Phase1Project1\Phase1Project1\obj\Debug\Phase1Project1.exe
+C:\simplilearn\Phase1Project1\Phase1Project1\obj\Debug\Phase1Project1.pdb
